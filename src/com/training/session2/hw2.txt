@@ -1,0 +1,5 @@
+Design a entire structure and set of classes for school.
+
+
+School
+
